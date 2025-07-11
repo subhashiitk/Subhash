@@ -1,2 +1,2 @@
-# Subhash
+# medical 
 Disease and treatment 
